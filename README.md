@@ -1,16 +1,14 @@
-## Hi there 👋
+# Vu Hoi Huynh
 
-<!--
-**elkuno213/elkuno213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Robotics Software Engineer focused on SLAM, 3D perception, sensor fusion, C++/CUDA, ROS2, and real-time AI inference for real robots.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SLAM, localization, mapping, and 3D reconstruction
+- 3D perception with LiDAR/camera data, PyTorch, ONNX, and TensorRT
+- Sensor fusion with factor graphs, Kalman filters, particle filters, IMU, GNSS, and odometry
+- ROS2/Nav2 autonomy, CUDA acceleration, simulation, deployment, and field debugging
+
+## Experience
+
+Built autonomous systems for service robots, industrial autonomous vehicles, and firefighting robots across SLAM, localization, perception, navigation, simulation, and embedded deployment.
